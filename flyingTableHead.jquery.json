@@ -1,0 +1,34 @@
+{
+  "name": "flyingTableHead",
+  "title": "flying Table Head",
+  "description": "jquery table plugin,make your table head flying ",
+  "keywords": [
+    "table",
+    "head"
+  ],
+  "version": "0.1.1",
+  "author": {
+    "name": "roln",
+    "url": "https://github.com/roln/flyingTableHead/0.1.1/AUTHORS.txt"
+  },
+  "maintainers": [
+    {
+      "name": "Roln",
+      "email": "cnwshuai@qq.com",
+      "url": "http://www.enjoyphp.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/roln/flyingTableHead/issues",
+  "homepage": "https://github.com/roln/flyingTableHead",
+  "docs": "https://github.com/roln/flyingTableHead/",
+  "download": "http://code.jquery.com/#flyingTableHead",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
