@@ -1,0 +1,14 @@
+.flying_table_head_div{
+	border:1px solid #82C4F6;
+	border-top:1px solid #82C4F6;
+	background:#F0F7FF;
+}
+.flying_table_head_subdiv{
+	border:#82C4F6 1px solid;
+	border-bottom:#82C4F6 1px solid;
+	color:#000;
+	font-weight:bold;
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center;
+}
